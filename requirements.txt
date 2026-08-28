@@ -11,3 +11,5 @@ openpyxl
 streamlit
 fastapi
 uvicorn
+python-dotenv
+psycopg2-binary
